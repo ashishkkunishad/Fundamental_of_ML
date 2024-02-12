@@ -14,7 +14,7 @@ alpha*y
 a,b=2,3
 x,y=np.array([[2],[3]]),np.array([[4],[5]])
 a*x + b*y
-
+#change
 print(x.T@y)#for dot product of two vector x AND y 
 
 #vector Norms
